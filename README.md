@@ -34,11 +34,11 @@ Technologies Used: Java, IntelliJ, File I/O, OOP principles
 
 Key Challenges:
 
-Designing consistent validation logic across multiple edge cases (e.g., time rollover).
+1. Designing consistent validation logic across multiple edge cases (e.g., time rollover).
 
-Maintaining strict encapsulation across multiple interacting classes.
+2. Maintaining strict encapsulation across multiple interacting classes.
 
-Ensuring comparison logic was both accurate and efficient.
+3. Ensuring comparison logic was both accurate and efficient.
 
 Key Learnings:
 
@@ -57,11 +57,11 @@ Technologies Used: Java, Recursion, IntelliJ
 
 Key Challenges:
 
-Converting naturally iterative concepts into purely recursive logic.
+1. Converting naturally iterative concepts into purely recursive logic.
 
-Avoiding stack overflow by designing efficient recursive structures.
+2. Avoiding stack overflow by designing efficient recursive structures.
 
-Maintaining clarity, readability, and correctness under strict constraints.
+3. Maintaining clarity, readability, and correctness under strict constraints.
 
 Key Learnings:
 
@@ -80,11 +80,11 @@ Technologies Used: Java, IntelliJ, File I/O, Validation Algorithms
 
 Key Challenges:
 
-Mapping external file data to a structured internal grid model.
+1. Mapping external file data to a structured internal grid model.
 
-Designing clear and modular validation functions (isValid, countVisible, etc.).
+2. Designing clear and modular validation functions (isValid, countVisible, etc.).
 
-Creating informative debugging outputs and readable grid displays.
+3. Creating informative debugging outputs and readable grid displays.
 
 Key Learnings:
 
