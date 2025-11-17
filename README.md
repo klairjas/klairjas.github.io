@@ -126,17 +126,16 @@ Key Learnings:
 * Git & GitHub
 
 # Experience
-Amazon Fulfillment Associate
 
-Amazon Warehouse
+## Amazon Fulfillment Associate
 
-Maintained high-accuracy workflow in a fast-paced, data-driven environment.
+* Maintained high-accuracy workflow in a fast-paced, data-driven environment.
 
-Applied algorithmic thinking to time-management, inventory routing, and problem resolution.
+* Applied algorithmic thinking to time-management, inventory routing, and problem resolution.
 
-Strengthened operational efficiency skills that translate directly to systems design and software logic.
+* Strengthened operational efficiency skills that translate directly to systems design and software logic.
 
-Developed communication, reliability, and process-optimization habits that support engineering work.
+* Developed communication, reliability, and process-optimization habits that support engineering work.
 
 <section id="resume">
   <h2>Resume</h2>
