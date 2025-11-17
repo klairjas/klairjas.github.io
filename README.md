@@ -152,4 +152,4 @@ Email: klairjas@uw.edu
 
 LinkedIn: https://www.linkedin.com/in/jaskaranklair/
 
-GitHub: (link to your GitHub profile)
+GitHub: https://github.com/klairjas/klairjas.github.io
