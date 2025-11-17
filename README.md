@@ -138,9 +138,13 @@ Strengthened operational efficiency skills that translate directly to systems de
 
 Developed communication, reliability, and process-optimization habits that support engineering work.
 
-# Resume
-
-resume.pdf
+<section id="resume">
+  <h2>Resume</h2>
+  <p>You can download my resume using the link below:</p>
+  <a href="resume.pdf" download>
+    Download My Resume (PDF)
+  </a>
+</section>
 
 # Contact
 
