@@ -140,6 +140,7 @@ Developed communication, reliability, and process-optimization habits that suppo
 
 # Resume
 
+resume.pdf
 
 # Contact
 
