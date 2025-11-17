@@ -7,11 +7,11 @@ I am a Computer Science and Systems student at the University of Washington Taco
 
 I’m currently pursuing a Bachelor of Science in Computer Science and Systems at the University of Washington Tacoma. My academic focus includes:
 
-Algorithm design and analysis
+* Algorithm design and analysis
 
-Object-oriented programming
+* Object-oriented programming
 
-Software engineering principles
+* Software engineering principles
 
 My short-term goal is to apply my technical and analytical skills in a software engineering internship. Long-term, I aim to contribute to innovative systems that improve efficiency, reliability, and user experience.
 
@@ -42,9 +42,9 @@ Key Challenges:
 
 Key Learnings:
 
-Reinforced strong OOP principles (encapsulation, cohesion, decomposition).
+* Reinforced strong OOP principles (encapsulation, cohesion, decomposition).
 
-Gained experience modeling real-world systems through layered, modular logic.
+* Gained experience modeling real-world systems through layered, modular logic.
 
 ## Recursive Math Library
 
@@ -65,9 +65,9 @@ Key Challenges:
 
 Key Learnings:
 
-Deepened mastery of recursion and divide-and-conquer patterns.
+* Deepened mastery of recursion and divide-and-conquer patterns.
 
-Strengthened ability to design mathematically precise algorithms.
+* Strengthened ability to design mathematically precise algorithms.
 
 ## Skyscraper Puzzle Validator
 
@@ -88,42 +88,42 @@ Key Challenges:
 
 Key Learnings:
 
-Improved modular design and testability through decomposed helper functions.
+* Improved modular design and testability through decomposed helper functions.
 
-Gained experience balancing correctness, readability, and maintainability.
+* Gained experience balancing correctness, readability, and maintainability.
 
 # Skills
-Programming Languages
+## Programming Languages: 
 
-Java (Proficient)
+* Java (Proficient)
 
-Python (Intermediate)
+* Python (Intermediate)
 
-Core Technical Skills
+## Core Technical Skills
 
-Data Structures & Algorithms (Linked Lists, Sorting, Trees, Recursion)
+* Data Structures & Algorithms (Linked Lists, Sorting, Trees, Recursion)
 
-Object-Oriented Design (Encapsulation, Abstraction, Modular Design)
+* Object-Oriented Design (Encapsulation, Abstraction, Modular Design)
 
-Computational Problem Solving & Discrete Mathematics
+* Computational Problem Solving & Discrete Mathematics
 
-Technical Documentation & Communication
+* Technical Documentation & Communication
 
-Attention to Detail • Debugging Accuracy
+* Attention to Detail • Debugging Accuracy
 
-Continuous Learning & Adaptability
+* Continuous Learning & Adaptability
 
-Tools & Environments
+## Tools & Environments
 
-IntelliJ IDEA
+* IntelliJ IDEA
 
-Eclipse
+* Eclipse
 
-VS Code
+* VS Code
 
-jGRASP
+* jGRASP
 
-Git & GitHub
+* Git & GitHub
 
 # Experience
 Amazon Fulfillment Associate
@@ -148,8 +148,8 @@ Developed communication, reliability, and process-optimization habits that suppo
 
 # Contact
 
-Email: klairjas@uw.edu
+* Email: klairjas@uw.edu
 
-LinkedIn: https://www.linkedin.com/in/jaskaranklair/
+* LinkedIn: https://www.linkedin.com/in/jaskaranklair/
 
-GitHub: https://github.com/klairjas/klairjas.github.io
+* GitHub: https://github.com/klairjas/klairjas.github.io
