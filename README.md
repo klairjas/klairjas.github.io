@@ -144,7 +144,7 @@ Developed communication, reliability, and process-optimization habits that suppo
 
 
 
-Resume
+./Resume.pdf 
 
 You can also download it directly from this repository as Resume.pdf.
 
