@@ -141,7 +141,7 @@ Developed communication, reliability, and process-optimization habits that suppo
 <section id="resume">
   <h2>Resume</h2>
   <p>You can download my resume using the link below:</p>
-  <a href="resume.pdf" download>
+  <a href="Resume.pdf" download>
     Download My Resume (PDF)
   </a>
 </section>
