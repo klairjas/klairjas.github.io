@@ -1,7 +1,7 @@
 # Hello, I'm Jaskaran Klair
 Aspiring Software Engineer | Java Developer | Problem Solver Focused on Algorithms & Systems
 
-I am a Computer Science and Systems student at the University of Washington Tacoma, passionate about building software that is logical, efficient, and impactful. I enjoy working on projects that push my understanding of algorithms, system design, and clean, modular code architecture. I bring a strong foundation in Java, recursion-based problem solving, and validating complex data structures—paired with a growing interest in automation and systems engineering shaped by my real-world work experience at Amazon.
+I am a Computer Science and Systems student at the University of Washington Tacoma, passionate about building software that is logical, efficient, and impactful. I enjoy working on projects that push my understanding of algorithms, system design, and clean, modular code architecture. I bring a strong foundation in Java, recursion-based problem solving, and validating complex data structures paired with a growing interest in automation and systems engineering shaped by my real-world work experience at Amazon.
 
 # About Me
 
@@ -15,7 +15,7 @@ I’m currently pursuing a Bachelor of Science in Computer Science and Systems a
 
 My short-term goal is to apply my technical and analytical skills in a software engineering internship. Long-term, I aim to contribute to innovative systems that improve efficiency, reliability, and user experience.
 
-In addition to my academic work, my experience at Amazon’s fulfillment center strengthened my appreciation for automation, workflow optimization, and data-driven decision-making—concepts that closely parallel the logic and structure of computing.
+In addition to my academic work, my experience at Amazon’s fulfillment center strengthened my appreciation for automation, workflow optimization, and data-driven decision-making concepts that closely parallel the logic and structure of computing.
 
 Outside of coursework, I enjoy solving logic puzzles, exploring system-design problems, and continuously improving my skills through independent projects.
 
