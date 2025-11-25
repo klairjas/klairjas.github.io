@@ -5,7 +5,7 @@ I am a Computer Science and Systems student at the University of Washington Taco
 
 # About Me
 
-I’m currently pursuing a Bachelor of Science in Computer Science and Systems at the University of Washington Tacoma. My academic focus includes:
+I’m currently pursuing a Bachelor of Arts in Computer Science and Systems at the University of Washington Tacoma. My academic focus includes:
 
 * Algorithm design and analysis
 
