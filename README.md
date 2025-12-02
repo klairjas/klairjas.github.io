@@ -147,8 +147,8 @@ Key Learnings:
 
 # Contact
 
-* Email: klairjas@uw.edu
+* Email: <a href="mailto:klairjas@uw.edu">klairjas@uw.edu</a>
 
-* LinkedIn: https://www.linkedin.com/in/jaskaranklair/
+* LinkedIn: <a href="https://www.linkedin.com/in/jaskaranklair/" target="_blank">https://www.linkedin.com/in/jaskaranklair/</a>
 
-* GitHub: https://github.com/klairjas/klairjas.github.io
+* GitHub: <a href="https://github.com/klairjas/klairjas.github.io" target="_blank">https://github.com/klairjas/klairjas.github.io</a>
