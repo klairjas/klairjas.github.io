@@ -127,7 +127,7 @@ Key Learnings:
 
 # Experience
 
-## Amazon Fulfillment Associate
+## Amazon Fulfillment Associate  (2023 - Present)
 
 * Maintained high-accuracy workflow in a fast-paced, data-driven environment.
 
