@@ -1,152 +1,162 @@
-# Hello, I'm Jaskaran Klair
-Aspiring Software Engineer | Java Developer | Problem Solver Focused on Algorithms & Systems
+<div style="max-width: 900px; margin: 0 auto; padding: 1.5rem;">
 
-I am a Computer Science and Systems student at the University of Washington Tacoma, passionate about building software that is logical, efficient, and impactful. I enjoy working on projects that push my understanding of algorithms, system design, and clean, modular code architecture. I bring a strong foundation in Java, recursion-based problem solving, and validating complex data structures paired with a growing interest in automation and systems engineering shaped by my real-world work experience at Amazon.
+<h1 align="center">Hello, I'm <span style="white-space: nowrap;">Jaskaran Klair</span></h1>
 
-# About Me
+<p align="center">
+  <b>Aspiring Software Engineer · Java Developer · Algorithm Enthusiast</b>
+</p>
 
-I’m currently pursuing a Bachelor of Arts in Computer Science and Systems at the University of Washington Tacoma. My academic focus includes:
+<p align="center">
+  I am a Computer Science and Systems student at the University of Washington Tacoma, focused on building
+  logical, efficient, and maintainable software. I enjoy working on projects that challenge my understanding
+  of algorithms, system design, and clean object oriented architecture.
+</p>
 
-* Algorithm design and analysis
+<hr />
 
-* Object-oriented programming
+## About Me
 
-* Software engineering principles
+I am currently pursuing a Bachelor of Arts in Computer Science and Systems at the University of Washington Tacoma. My academic interests include:
 
-My short-term goal is to apply my technical and analytical skills in a software engineering internship. Long-term, I aim to contribute to innovative systems that improve efficiency, reliability, and user experience.
+- Algorithm design and analysis  
+- Object oriented programming  
+- Software engineering principles and design patterns  
 
-In addition to my academic work, my experience at Amazon’s fulfillment center strengthened my appreciation for automation, workflow optimization, and data-driven decision-making concepts that closely parallel the logic and structure of computing.
+In the short term, I aim to apply my technical and analytical skills in a software engineering internship. Long term, I want to contribute to systems that improve efficiency, reliability, and user experience.
 
-Outside of coursework, I enjoy solving logic puzzles, exploring system-design problems, and continuously improving my skills through independent projects.
+My experience at Amazon’s fulfillment center has strengthened my appreciation for automation, workflow optimization, and data driven decision making. The way large scale systems move, track, and route items closely mirrors the structured logic used in computing, which motivates me to keep learning and building.
 
-# Projects (Work in Progress)
+Outside of coursework, I enjoy solving logic puzzles, exploring system design ideas, and improving my skills through independent coding projects.
 
-Below are three featured academic projects that highlight my growth in algorithms, Java, and problem-solving. All projects were developed using IntelliJ IDEA.
+<hr />
 
-## Clock Shop
+## Projects (Work in Progress)
 
-Java • Object-Oriented Programming • Algorithms • File I/O (2025)
+Below are three featured academic projects that highlight my growth in Java, algorithms, and problem solving. All projects were developed using IntelliJ IDEA.
 
-Description:
-A fully validated 24-hour digital clock system supporting strict time validation for hours, minutes, and seconds. Includes comparison features, time advancement, and layered logic ideal for real-world timing systems.
+### Clock Shop
 
-Technologies Used: Java, IntelliJ, File I/O, OOP principles
+**Topics:** Java · Object Oriented Programming · Algorithms · File I/O  
+**Year:** 2025  
 
-Key Challenges:
+**Description:**  
+Engineered a fully validated 24 hour digital clock system with strict time checking for hours, minutes, and seconds. The system supports time comparison, advancement, and layered logic that can model real world timing systems.
 
-1. Designing consistent validation logic across multiple edge cases (e.g., time rollover).
+**Technologies Used:**  
+Java, IntelliJ IDEA, File I/O, object oriented design
 
-2. Maintaining strict encapsulation across multiple interacting classes.
+**Challenges:**
 
-3. Ensuring comparison logic was both accurate and efficient.
+1. Designing consistent validation logic across edge cases such as time rollover and invalid inputs.
+2. Keeping the codebase modular while multiple classes interacted to represent different aspects of time.
+3. Ensuring that comparison methods remained accurate and easy to reason about.
 
-Key Learnings:
+**Key Learnings:**
 
-* Reinforced strong OOP principles (encapsulation, cohesion, decomposition).
+- Reinforced core OOP principles like encapsulation, cohesion, and clear decomposition.  
+- Gained practice modeling real world systems using layered, testable logic.  
 
-* Gained experience modeling real-world systems through layered, modular logic.
 
-## Recursive Math Library
+### Recursive Math Library
 
-Java • Recursion • Algorithm Design (2024)
+**Topics:** Java · Recursion · Algorithm Design  
+**Year:** 2024  
 
-Description:
-A recursion-only mathematical utility class implementing a suite of mathematical operations without loops, imports, or object instantiation.
+**Description:**  
+Created a recursion only mathematical utility class that implements a set of operations without using loops, external libraries, or object instantiation. The focus was on logical purity, mathematical correctness, and clarity.
 
-Technologies Used: Java, Recursion, IntelliJ
+**Technologies Used:**  
+Java, recursion, IntelliJ IDEA
 
-Key Challenges:
+**Challenges:**
 
-1. Converting naturally iterative concepts into purely recursive logic.
+1. Converting naturally iterative ideas into purely recursive functions.  
+2. Managing recursive depth to avoid unnecessary overhead or stack issues.  
+3. Keeping functions readable and well documented under strict constraints.
 
-2. Avoiding stack overflow by designing efficient recursive structures.
+**Key Learnings:**
 
-3. Maintaining clarity, readability, and correctness under strict constraints.
+- Deepened understanding of recursion and divide and conquer strategies.  
+- Improved ability to design mathematically precise algorithms with clear base and recursive cases.  
 
-Key Learnings:
 
-* Deepened mastery of recursion and divide-and-conquer patterns.
+### Skyscraper Puzzle Validator
 
-* Strengthened ability to design mathematically precise algorithms.
+**Topics:** Java · Algorithms · File I/O · Validation Logic  
+**Year:** 2024  
 
-## Skyscraper Puzzle Validator
+**Description:**  
+Developed a Java program that reads and validates Skyscraper puzzle configurations from external files. The program uses clue based logic and grid parsing to determine whether a given puzzle satisfies all constraints.
 
-Java • Algorithms • File I/O • Validation Logic (2024)
+**Technologies Used:**  
+Java, IntelliJ IDEA, File I/O, validation algorithms
 
-Description:
-A Java program that reads, validates, and analyzes Skyscraper puzzle configurations using clue-based logic and grid parsing.
+**Challenges:**
 
-Technologies Used: Java, IntelliJ, File I/O, Validation Algorithms
+1. Mapping file based input into a structured internal grid that stayed easy to debug.  
+2. Designing modular validation helpers like `isValid` and `countVisible` to keep logic organized.  
+3. Producing readable debugging output and formatted grid displays for testing.
 
-Key Challenges:
+**Key Learnings:**
 
-1. Mapping external file data to a structured internal grid model.
+- Strengthened modular design and testability through well decomposed helper functions.  
+- Gained experience balancing correctness, readability, and maintainability in a non trivial validation task.  
 
-2. Designing clear and modular validation functions (isValid, countVisible, etc.).
+<hr />
 
-3. Creating informative debugging outputs and readable grid displays.
+## Skills
 
-Key Learnings:
+### Programming Languages
 
-* Improved modular design and testability through decomposed helper functions.
+- Java (Proficient)  
+- Python (Intermediate)  
 
-* Gained experience balancing correctness, readability, and maintainability.
+### Core Technical Skills
 
-# Skills
-## Programming Languages: 
+- Data Structures and Algorithms (linked lists, sorting, trees, recursion)  
+- Object oriented design (encapsulation, abstraction, modular design)  
+- Computational problem solving and discrete mathematics  
+- Technical documentation and communication  
+- Attention to detail and debugging accuracy  
+- Continuous learning and adaptability  
 
-* Java (Proficient)
+### Tools and Environments
 
-* Python (Intermediate)
+- IntelliJ IDEA  
+- Eclipse  
+- VS Code  
+- jGRASP  
+- Git and GitHub  
 
-## Core Technical Skills
+<hr />
 
-* Data Structures & Algorithms (Linked Lists, Sorting, Trees, Recursion)
+## Experience
 
-* Object-Oriented Design (Encapsulation, Abstraction, Modular Design)
+### Amazon Fulfillment Associate
 
-* Computational Problem Solving & Discrete Mathematics
+- Maintained high accuracy and consistency in a fast paced, data driven environment.  
+- Applied algorithmic thinking to time management, inventory routing, and problem resolution.  
+- Strengthened operational efficiency skills that map well to systems design and software logic.  
+- Built strong communication, reliability, and process optimization habits that support engineering work.  
 
-* Technical Documentation & Communication
-
-* Attention to Detail • Debugging Accuracy
-
-* Continuous Learning & Adaptability
-
-## Tools & Environments
-
-* IntelliJ IDEA
-
-* Eclipse
-
-* VS Code
-
-* jGRASP
-
-* Git & GitHub
-
-# Experience
-
-## Amazon Fulfillment Associate
-
-* Maintained high-accuracy workflow in a fast-paced, data-driven environment.
-
-* Applied algorithmic thinking to time-management, inventory routing, and problem resolution.
-
-* Strengthened operational efficiency skills that translate directly to systems design and software logic.
-
-* Developed communication, reliability, and process-optimization habits that support engineering work.
+<hr />
 
 <section id="resume">
   <h2>Resume</h2>
   <p>You can download my resume using the link below:</p>
-  <a href="Resume.pdf" download>
-    Download My Resume (PDF)
-  </a>
+  <p>
+    <a href="Resume.pdf" download>
+      Download My Resume (PDF)
+    </a>
+  </p>
 </section>
 
-# Contact
+<hr />
 
-- Email: [klairjas@uw.edu](mailto:klairjas@uw.edu)
-- LinkedIn: [linkedin.com/in/jaskaranklair](https://www.linkedin.com/in/jaskaranklair/)
-- GitHub: [github.com/klairjas](https://github.com/klairjas/klairjas.github.io)
+## Contact
+
+- Email: <a href="mailto:klairjas@uw.edu">klairjas@uw.edu</a>  
+- LinkedIn: <a href="https://www.linkedin.com/in/jaskaranklair/" target="_blank">linkedin.com/in/jaskaranklair</a>  
+- GitHub: <a href="https://github.com/klairjas" target="_blank">github.com/klairjas</a>  
+
+</div>
