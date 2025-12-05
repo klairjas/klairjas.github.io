@@ -1,5 +1,5 @@
 # Hello, I'm Jaskaran Klair
-Aspiring Software Engineer | Java Developer | Problem Solver Focused on Algorithms & Systems
+Aspiring Software Engineer | Java Developer | Problem Solver Focused on Algorithms & Systems <img width="125" height="125" alt="image" src="https://github.com/user-attachments/assets/4ba56847-a86e-44a9-b33f-460f26ce94d2" />
 
 I am a Computer Science and Systems student at the University of Washington Tacoma, passionate about building software that is logical, efficient, and impactful. I enjoy working on projects that push my understanding of algorithms, system design, and clean, modular code architecture. I bring a strong foundation in Java, recursion-based problem solving, and validating complex data structures paired with a growing interest in automation and systems engineering shaped by my real-world work experience at Amazon.
 
